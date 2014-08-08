@@ -1,0 +1,120 @@
+
+
+.header {
+display: block;
+background-color: black;
+color: white;
+text-align: center;
+height: 25px;
+width: 835px;
+font-family: MS Sans Serif;
+font-size: 20px;
+font-weight: 200;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-right: 5px;
+margin-left: 760px;
+margin-top: -75px;
+letter-spacing: 2px;
+
+}
+
+a:link {
+color: white;
+	} 
+
+.header2 {
+display: block;
+background-color: white;
+color: black;
+text-align: center;
+height: 25px;
+width: 700px;
+font-family: MS Sans Serif;
+font-size: 20px;
+font-weight: 200;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-left: 5px;
+letter-spacing: 2px;
+
+}
+
+.panel1 {
+display: block;
+text-align: center;
+height: 500px;
+width: 800px;
+font-family: MS Sans Serif;
+letter-spacing: 2px;
+
+
+}
+
+.panel2{
+	display:block;
+	height:100px;
+	width: 1590px;
+	background-color: #DA4699;
+	text-align: center;
+	font-family: MS Sans Serif;
+	letter-spacing: 2px;
+	font-size: 20px;
+	padding: 5px;
+	margin-top: 100px;
+	line-height: 30px;
+}
+
+.panel3 {
+	display:block;
+	height:400px;
+	width: 1590px;
+	background-color: black;
+	text-align: center;
+	font-family: MS Sans Serif;
+	letter-spacing: 2px;
+	font-size: 20px;
+	padding: 5px;
+	padding-top: 25px;
+	color:white;
+
+
+
+}
+
+.panel4 {
+	display:block;
+	height:600px;
+	width: 1590px;
+	background-color: black;
+	text-align: center;
+	font-family: MS Sans Serif;
+	letter-spacing: 2px;
+	font-size: 20px;
+	padding: 5px;
+	padding-top: 25px;
+	color:white;
+}
+
+.panel5 {
+	display:block;
+	height:200px;
+	width: 1590px;
+	background-color: black;
+	text-align: center;
+	font-family: MS Sans Serif;
+	letter-spacing: 2px;
+	font-size: 20px;
+	padding: 5px;
+	color:white;
+}
+
+#contact {
+	color: #DA4699;
+	font-size: 24px;
+	padding-top: 20px;
+
+}
+
+
+
